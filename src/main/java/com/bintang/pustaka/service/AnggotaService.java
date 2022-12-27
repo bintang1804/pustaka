@@ -14,7 +14,7 @@ import kong.unirest.Unirest;
 
 /**
  *
- * @author LABSIDOSEN
+ * @author bintang
  */
 public class AnggotaService {
     private final String URL = "http://localhost:9001";
