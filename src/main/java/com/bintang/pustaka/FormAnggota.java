@@ -10,7 +10,7 @@ import javax.swing.JTextField;
 
 /**
  *
- * @author LABSIDOSEN
+ * @author bintang
  */
 public class FormAnggota extends javax.swing.JFrame {
 
