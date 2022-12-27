@@ -13,7 +13,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author LABSIDOSEN
+ * @author bintang
  */
 public class AnggotaController {
     private final AnggotaService anggotaService;
