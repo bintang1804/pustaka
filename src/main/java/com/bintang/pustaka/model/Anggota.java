@@ -6,7 +6,7 @@ package com.bintang.pustaka.model;
 
 /**
  *
- * @author LABSIDOSEN
+ * @author bintang
  */
 public class Anggota {
     private Long anggotaId;
